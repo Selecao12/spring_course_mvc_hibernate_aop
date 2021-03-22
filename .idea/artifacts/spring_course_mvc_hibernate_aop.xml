@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring_course_mvc_hibernate_aop">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_course_mvc_hibernate_aop</output-path>
+    <root id="root" />
+  </artifact>
+</component>
